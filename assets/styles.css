@@ -1,3 +1,6 @@
-body {
-  background-color: #B6D6CC;
+
+  body {
+    background-image: url("images/skulls-1920x1080.png");
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
 }
